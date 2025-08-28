@@ -3,9 +3,7 @@
   padding: 0;
 }
 body{
-    font-family: sans-serif;
-    background-color: ;
-  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav {
   display: flex;
@@ -25,7 +23,7 @@ nav ul {
   list-style: none;
   display: flex;
   gap: 48px;
-  font-size: 20px;
+  font-size: 18px;
 }
 nav ul li{
     cursor: pointer;
@@ -70,6 +68,6 @@ nav ul li:hover{
     background-color: black;
 }
 .container {
-    margin-right: 140px;
+    margin-right: 70px;
 }
 
